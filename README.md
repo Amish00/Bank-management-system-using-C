@@ -1,27 +1,52 @@
-# 🏦 Bank Management System (C Programming)
+🏦 Bank Management System – C Programming
+📌 Project Overview
 
-A simple console-based Bank Management System developed using the C programming language.  
-This project demonstrates core banking operations along with basic file handling and structured programming concepts.
+The Bank Management System is a console-based application developed using the C programming language. This project simulates basic banking operations and is designed for academic learning to understand structured programming, file handling, and logical problem-solving in C.
 
----
+🚀 Features
 
-## 🚀 Features
-- Create new bank accounts
-- Deposit money
-- Withdraw money
-- Check account balance
-- Store and retrieve account data using files
-- Menu-driven console interface
+Create new bank accounts
 
----
+Deposit and withdraw money
 
-## 🛠️ Technologies Used
-- C Programming Language
-- File Handling (fopen, fread, fwrite)
-- Standard Input/Output
+Check account balance
 
----
+View customer account details
 
-## ⚙️ How It Works
-- User selects an option from the menu
-- Account details are
+Store and retrieve data using file handling
+
+🛠️ Technologies Used
+
+Language: C
+
+Concepts: Functions, structures, file handling, conditional logic
+
+▶️ How to Run
+
+Clone the repository
+
+git clone https://github.com/your-username/bank-management-system.git
+
+
+Compile the program
+
+gcc bank.c -o bank
+
+
+Run the executable
+
+./bank
+
+🎯 Project Purpose
+
+This project was developed to:
+
+Practice core C programming concepts
+
+Understand real-world logic through banking operations
+
+Learn file-based data storage
+
+📄 License
+
+This project is developed for educational purposes only.
